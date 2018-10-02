@@ -1,6 +1,7 @@
 # Semantic Markup
 
 1. Clone this repository to your `~/wcci/code` directory.
-1. Open it inside of sublime.
-1. Open the `index.html` file inside of your browser.
-1. Follow the instructions inside of the comments in `index.html` to complete the project
+1. Run `gradle eclipse`
+1. Import project into Eclipse
+1. Run the application to start the server
+1. Open `index.html` from the static folder and follow instructions in the comments. (images necessary for the exercise are located in `src/main/resources/static/images`)
